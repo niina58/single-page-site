@@ -53,5 +53,18 @@ address{
     font-style: normal;
 }
 
+.photos{
+    width: 750px;
+}
+.photos-list li{
+    margin-bottom: 30;
+}
+.photos figcaption{
+    font-size: 12px;
+}
+
+
+
+
 
 
